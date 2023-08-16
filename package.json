@@ -1,0 +1,22 @@
+{
+  "name": "ci-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brodsa/ci-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brodsa/ci-jest/issues"
+  },
+  "homepage": "https://github.com/brodsa/ci-jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
